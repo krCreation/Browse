@@ -4,6 +4,7 @@ import HistoryItem from '../HistoryItem'
 
 // eslint-disable-next-line import/no-unresolved
 
+// eslint-disable-next-line import/no-unresolved
 import './index.css'
 
 const initialHistoryList = [
@@ -168,6 +169,7 @@ class History extends Component {
   render() {
     // eslint-disable-next-line no-unused-vars
 
+    // eslint-disable-next-line no-unused-vars
     const {searchInput, HistoryList, isShow} = this.state
 
     const searchResults = HistoryList.filter(each =>

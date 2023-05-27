@@ -82,3 +82,4 @@ const initialHistoryList = [
 const App = () => <History />
 
 export default App
+

@@ -1,5 +1,6 @@
 // eslint-disable-next-line import/no-unresolved
 
+// eslint-disable-next-line import/no-unresolved
 import './index.css'
 
 const HistoryItem = props => {
